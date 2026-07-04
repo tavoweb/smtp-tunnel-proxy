@@ -3,7 +3,7 @@
 # SMTP Tunnel Proxy - Server Installation Script
 #
 # One-liner installation:
-#   curl -sSL https://raw.githubusercontent.com/x011/smtp-tunnel-proxy/main/install.sh | sudo bash
+#   curl -sSL https://raw.githubusercontent.com/tavoweb/smtp-tunnel-proxy/main/install.sh | sudo bash
 #
 # Version: 1.3.0
 
@@ -16,7 +16,7 @@ CYAN='\033[0;36m'
 NC='\033[0m' # No Color
 
 # GitHub raw URL base
-GITHUB_RAW="https://raw.githubusercontent.com/x011/smtp-tunnel-proxy/main"
+GITHUB_RAW="https://raw.githubusercontent.com/tavoweb/smtp-tunnel-proxy/main"
 
 # Installation directories
 INSTALL_DIR="/opt/smtp-tunnel"
